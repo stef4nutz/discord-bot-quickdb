@@ -1,3 +1,4 @@
+// packages
 const Discord = require("discord.js");
 const client = new Discord.Client();
 var token = "YOURTOKEN"; // your token, if you use glitch make sure you remove this code and use the steps.
