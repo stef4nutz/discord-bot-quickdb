@@ -18,3 +18,4 @@ exports.run = async (bot, message, args, color, prefix) => {
         message.channel.send(`\`\`\`js\n${e}\n\`\`\``);
     }
 };
+// done
